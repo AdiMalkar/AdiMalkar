@@ -14,8 +14,8 @@ Welcome to my GitHub! My journey in technology is fueled by curiosity and a rele
 
 ### 🚀 Technologies & Tools:
 - **Programming:** Python, R, SQL, PySpark  
-- **Libraries & Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy  
-- **Data Tools:** Azure, Google Cloud, Wasabi  
+- **Libraries & Frameworks:** NumPy, Pandas, TensorFlow, Scikit-learn, MediaPipe, NLTK, Matplotlib, PyTorch, Keras  
+- **Data Tools:** Azure, Google Cloud, AWS, Github  
 - **Other Skills:** Data Preprocessing, Visualization, Model Deployment  
 
 ---
