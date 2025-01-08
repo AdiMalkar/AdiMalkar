@@ -7,8 +7,8 @@ Welcome to my GitHub! My journey in technology is fueled by curiosity and a rele
 ---
 
 ### 🌱 What I’m Currently Working On:
-- Multimodal Sentiment Analysis using neural networks.
-- Experimenting with PySpark for large-scale data processing.
+- Neural Data Compression for Images and Vidoes.
+- Building Foundation, increasing proficiency in AWS
   
 ---
 
